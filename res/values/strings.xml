@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Toast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="toast">Simple Toast</string>
+    <string name="ctoast">Custom Toast 1</string>
+    <string name="cbtoast">Custom Toast 2</string>
+    <string name="show">Hello From Rajesh and JAAGA.</string>
+
+</resources>
